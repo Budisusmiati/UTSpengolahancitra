@@ -1,0 +1,2 @@
+# UTSpengolahancitra
+uts pengolahan citra
